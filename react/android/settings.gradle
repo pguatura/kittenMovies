@@ -1,0 +1,3 @@
+rootProject.name = 'kittenMovies'
+
+include ':app'
